@@ -1,2 +1,2 @@
 # dusunme-akademisi
-Düşünme Akademisi web sitesi
+Academy of Thinking web sitesi
